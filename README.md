@@ -1,6 +1,7 @@
 # Books Database
 
 Team Members: Justin Diament, Chris Teng, and Neha Sriram
+
 Section: Jose Annunziato, Tuesday & Friday 1:35 - 3:15 (Section 4)
 
 How To Use: 
